@@ -1,0 +1,22 @@
+{
+  "wheel_id": 823,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-158",
+  "project": "roof-repair-tampa-warranty-64cd308cbd73b1510f1b1395368a5a2c60c0",
+  "parent_t1_ref": "roofcontractortampa-013",
+  "node_role": "buffer",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa warranty",
+  "intended_url": "https://aumedia.neocities.org/roof-repair-tampa-warranty-64cd308cbd73b1510f1b1395368a5a2c60c0/",
+  "tier": "T2",
+  "writeback_nonce": "a11113fe5a5ccc0b",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/roof-repair-tampa-roofcontractortampa-013/",
+      "anchor": "the roof repair tampa overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
